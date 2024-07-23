@@ -1,7 +1,7 @@
 import cors from 'cors';
 import express from 'express';
 
-const PORT = 8000
+const PORT = 8014
 export const MESSAGE_PATH = "/message"
 
 export function launchApi() {
